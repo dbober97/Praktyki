@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1719844225 source:c:\users\dorot\desktop\konwerter\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<algorithm>
+	<iterator>
+	<map>
+	<set>
+	<vector>
+
